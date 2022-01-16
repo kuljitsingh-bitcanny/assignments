@@ -1,0 +1,15 @@
+{
+  "short_name": "Recipe Aapp",
+  "name": "Recipe App",
+  "icons": [
+    {
+      "src": "recipe.png",
+      "type": "image/png",
+      "sizes": "64x64"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
